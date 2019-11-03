@@ -1,0 +1,54 @@
+A.2 {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.2:hover {
+	COLOR: #ff6600
+}
+.title1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.word {
+	FONT-SIZE: 9pt; COLOR: #333333; LINE-HEIGHT: 13pt; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.button {
+	PADDING-LEFT: 30px; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(image/button.gif); BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.buttonover {
+	PADDING-LEFT: 28px; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(image/button-over.gif); CURSOR: hand; COLOR: #000000; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.top {
+	PADDING-LEFT: 16px; FONT-SIZE: 9pt; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.topover {
+	PADDING-LEFT: 16px; FONT-SIZE: 9pt; CURSOR: text; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #eeeeee
+}
+A {
+	FONT-SIZE: 9pt; COLOR: #0088b5; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+BODY {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px
+}
+.title2 {
+	FONT-WEIGHT: 600; FONT-SIZE: 10pt; COLOR: #ff6600; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.white {
+	FONT-SIZE: 9pt; COLOR: #ffffff
+}
+A.3 {
+	FONT-SIZE: 11pt; COLOR: #ff6600; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.copyright {
+	PADDING-LEFT: 30px; FONT-SIZE: 9pt; COLOR: #666666; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.word-title {
+	PADDING-LEFT: 40px; FONT-SIZE: 11pt; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.title3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.englishname {
+	FONT-WEIGHT: 600; FONT-SIZE: 9pt; COLOR: #ff6600; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
