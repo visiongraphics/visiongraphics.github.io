@@ -1,0 +1,59 @@
+.mstheme {
+	list-image-1: url(strbul1c.gif);
+	list-image-2: url(strbul2c.gif);
+	list-image-3: url(strbul3c.gif);
+	nav-banner-image: url(strbanc.gif);
+	navbutton-home-normal: url(strhomebtnc.gif);
+	navbutton-horiz-normal: url(strhorzbtnnc.gif);
+	navbutton-horiz-pushed: url(strhorzbtnsc.gif);
+	navbutton-next-normal: url(strnextbtnc.gif);
+	navbutton-prev-normal: url(strprevbtnc.gif);
+	navbutton-up-normal: url(strupbtnc.gif);
+	navbutton-vert-normal: url(strvertbtnnc.gif);
+	navbutton-vert-pushed: url(strvertbtnsc.gif);
+	separator-image: url(strrulec.gif);
+}
+.mstheme-bannertxt {
+	color: #000000;
+	font-family: Arial,Helvetica;
+	font-size: 5;
+}
+.mstheme-horiz-navtxt {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 2;
+}
+.mstheme-navtxthome {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtnext {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtprev {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtup {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-vert-navtxt {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 2;
+}
+ul {
+	list-style-image: url(strbul1c.gif);
+}
+ul ul {
+	list-style-image: url(strbul2c.gif);
+}
+ul ul ul {
+	list-style-image: url(strbul3c.gif);
+}

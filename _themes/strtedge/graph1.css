@@ -1,0 +1,65 @@
+.mstheme {
+	list-image-1: url(astrbul1e.gif);
+	list-image-2: url(strbul2e.gif);
+	list-image-3: url(strbul3e.gif);
+	nav-banner-image: url(astrbane.gif);
+	navbutton-home-hovered: url(strhomebtnhe.gif);
+	navbutton-home-normal: url(strhomebtnne.gif);
+	navbutton-horiz-hovered: url(strhorzbtnhe.gif);
+	navbutton-horiz-normal: url(strhorzbtnne.gif);
+	navbutton-horiz-pushed: url(strhorzbtnse.gif);
+	navbutton-next-hovered: url(strnextbtnhe.gif);
+	navbutton-next-normal: url(strnextbtnne.gif);
+	navbutton-prev-hovered: url(strprevbtnhe.gif);
+	navbutton-prev-normal: url(strprevbtnne.gif);
+	navbutton-up-hovered: url(strupbtnhe.gif);
+	navbutton-up-normal: url(strupbtnne.gif);
+	navbutton-vert-hovered: url(strvertbtnhe.gif);
+	navbutton-vert-normal: url(strvertbtnne.gif);
+	navbutton-vert-pushed: url(strvertbtnse.gif);
+	separator-image: url(strrulee.gif);
+}
+.mstheme-bannertxt {
+	color: #000000;
+	font-family: Arial,Helvetica;
+	font-size: 5;
+}
+.mstheme-horiz-navtxt {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 2;
+}
+.mstheme-navtxthome {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtnext {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtprev {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-navtxtup {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 1;
+}
+.mstheme-vert-navtxt {
+	color: #000000;
+	font-family: arial,helvetica;
+	font-size: 2;
+}
+ul {
+	list-style-image: url(astrbul1e.gif);
+}
+ul ul {
+	list-style-image: url(strbul2e.gif);
+}
+ul ul ul {
+	list-style-image: url(strbul3e.gif);
+}
