@@ -1,0 +1,59 @@
+.mstheme{
+nav-banner-image:url(edgbanr.gif);
+separator-image:url(edgrule.gif);
+list-image-1:url(edgbul1.gif);
+list-image-2:url(edgbul2.gif);
+list-image-3:url(edgbul3.gif);
+navbutton-horiz-pushed:url(edghsel.gif);
+navbutton-horiz-normal:url(edghbtn.gif);
+navbutton-vert-pushed:url(edgvsel.gif);
+navbutton-vert-normal:url(edgvbtn.gif);
+navbutton-home-normal:url(edghom.gif);
+navbutton-up-normal:url(edgup.gif);
+navbutton-prev-normal:url(edgbck.gif);
+navbutton-next-normal:url(edgnxt.gif);
+}
+UL{
+list-style-image:url(edgbul1.gif);
+}
+UL UL{
+list-style-image:url(edgbul2.gif);
+}
+UL UL UL{
+list-style-image:url(edgbul3.gif);
+}
+.mstheme-bannertxt{
+font-family:georgia,Times New Roman,Times;
+font-size:5;
+color:#000000;
+}
+.mstheme-horiz-navtxt{
+font-family:georgia,times new roman,times;
+font-size:2;
+color:#000000;
+}
+.mstheme-vert-navtxt{
+font-family:georgia,times new roman,times;
+font-size:2;
+color:#000000;
+}
+.mstheme-navtxthome{
+font-family:georgia,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtup{
+font-family:georgia,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtprev{
+font-family:georgia,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtnext{
+font-family:georgia,times new roman,times;
+font-size:1;
+color:#000000;
+}
