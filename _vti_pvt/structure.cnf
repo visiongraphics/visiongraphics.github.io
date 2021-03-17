@@ -1,9 +1,11 @@
 3.0.0.507
-1006
+1007
 1000,index.htm,0,Jing Hua - Professor of Computer Science,0,1612735238,1
 vti_globalpage:BW|true
 1001,research.htm,0,Research,1000,1612735477,0
-1002,publications.htm,0,Publications,1000,1612735478,0
+1002,publications_by_category.htm,0,Publications,1000,1616020232,1
+vti_nonnavpage:BW|true
+1006,publications_by_year.htm,0,Publications,1000,1616019067,0
 1003,teaching.htm,0,Teaching,1000,1612735478,0
 1004,activities.htm,0,Activities,1000,1612735338,0
 1005,links.htm,0,Links,1000,1612735478,0
